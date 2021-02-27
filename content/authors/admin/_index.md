@@ -14,7 +14,7 @@ organizations:
   url: https://irvapp.fbk.eu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TO DO
+bio: Website in process of being updated
 
 # Interests to show in About widget
 interests:
@@ -73,4 +73,4 @@ highlight_name: false
 
 TO DO
 
-{{< icon name="download" pack="fas" >}}  {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}}  {{< staticref "media/CV_Sergiu_Burlacu.pdf" "newtab" >}}CV{{< /staticref >}}
