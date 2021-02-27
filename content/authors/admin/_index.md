@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-TO DO
+Please do not mind the existing content, website in process of being updated
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "media/CV_Sergiu_Burlacu.pdf" "newtab" >}}CV{{< /staticref >}}
