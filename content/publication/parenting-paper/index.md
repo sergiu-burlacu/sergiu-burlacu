@@ -31,7 +31,7 @@ publication_types: ["3"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: Poor children receive lower quality parental attention and have worse human capital outcomes.  Is their parents' behavior a cause of their poverty, or its consequence?  To address this question, we test a hypothesis based on the psychological impacts of poverty, rather than its effect on resources or knowledge: Financial concerns arising from low and uncertain incomes preoccupy poor parents, reducing their attention available for more important, but less urgent parenting tasks. In an online experiment, we study how being primed with financial concerns affects parents' purchase decisions, including responsiveness to discounts.  We find that, in the absence of financial concerns, both rich and poor parents respond rationally to a discount on child learning products.  However, under financial concerns, poorer parents alone prioritize purchase of immediate household needs over child learning.  Within this group, this effect is driven by parents farther away from their last payday.  Our results show that low parental attention to children can be a consequence of poverty, and why it may not be resolved with financial incentives.  
+abstract: Poor children 
 
 
 # Summary. An optional shortened abstract.
