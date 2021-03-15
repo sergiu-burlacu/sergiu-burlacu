@@ -1,14 +1,13 @@
 ---
-title: "The Preoccupied Parent: Household Choices under Poverty (new draft coming soon)"
+title: "Recalling Violence Exposure and Cognitive Function among Primary School Students in El Salvador (new draft coming soon)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jacopo Bonan
 - admin
-- Anandi Mani
-- Piero Ronzani
-- Lucia Savadori
+- Arianna Galliera
 
 # Author notes (optional)
 # author_notes:
@@ -31,7 +30,16 @@ publication_types: ["3"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "Poor children receive lower quality parental attention and have worse human capital outcomes. Is their parents' behavior a cause of their poverty, or its consequence? To address this question, we test a hypothesis based on the psychological impacts of poverty, rather than its effect on resources or knowledge: Financial concerns arising from low and uncertain incomes preoccupy poor parents, reducing their attention available for more important, but less urgent parenting tasks. In an online experiment, we study how being primed with financial concerns affects parents' purchase decisions, including responsiveness to discounts. We find that, in the absence of financial concerns, both rich and poor parents respond rationally to a discount on child learning products. However, under financial concerns, poorer parents alone prioritize purchase of immediate household needs over child learning. Within this group, this effect is driven by parents farther away from their last payday. Our results show that low parental attention to children can be a consequence of poverty, and why it may not be resolved with financial incentives." 
+abstract: "Following a civil war lasting more than a decade, violence in El
+Salvador persists at extremely high levels with the
+rise of gangs controlling and fighting for territory. High and
+unanticipated fluctuations in violent crimes spread a general feeling of fear and panic among the general population, including children, which may impact their cognitive capacities. This paper investigates the impact of recalling violence exposure on cognitive performance among primary school students in El Salvador. Within a lab-in-the-field experiment, primary school students are randomly assigned to recall episodes of violence either before or after taking
+cognitive tests. Students assigned to the former condition, show higher performance by 0.23 standard deviations. The
+effect size is larger as reported violence exposure increases. The direction and magnitude of results contrast previous
+findings from the literature and suggest that responses to violence
+are context-specific and might vary with the intensity of the exposure.
+In a country plagued by violent crimes, the sharpening of the cognitive
+functions observed in this study could be a coping mechanism in the face of adversity." 
 
 
 # Summary. An optional shortened abstract.
