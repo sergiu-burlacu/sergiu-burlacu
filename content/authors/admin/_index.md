@@ -14,7 +14,7 @@ organizations:
   url: https://irvapp.fbk.eu/people/detail/sergiu-burlacu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Website in process of being updated
+bio: Reseacher at FBK-IRVAPP
 
 # Interests to show in About widget
 interests:
