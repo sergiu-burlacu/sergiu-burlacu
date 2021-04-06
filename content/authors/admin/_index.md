@@ -11,7 +11,7 @@ role: Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: FBK-IRVAPP
-  url: https://irvapp.fbk.eu/
+  url: https://irvapp.fbk.eu/people/detail/sergiu-burlacu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Website in process of being updated
@@ -71,6 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Please do not mind the existing content, website in process of being updated
+I joined <a href="https://irvapp.fbk.eu/">FBK-IRVAPP</a> as Research Fellow in the Fall of 2019. My research interests are development, labor and public economics. My current research explores how being mentally preoccupied with financial struggles affects behaviors such as parental investment in human capital and demand for addictive goods. In addition, I explore if it changes how people living in poverty respond to public policies. Furthermore, using lab-in-the-fields experiments with primary schools students in El Salvador, I study (i) how recalling violence exposure impacts cognitive function and (ii) the potential determinants of economic behaviors of children (prosocial behaviors, risk preferences and others). 
+
+
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "media/CV_Sergiu_Burlacu.pdf" "newtab" >}}CV{{< /staticref >}}
