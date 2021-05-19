@@ -1,5 +1,5 @@
 ---
-title: "Blinded by worries: sin taxes and demand for temptation under financial worries (Revise and Resubmit, Theory and Decision)"
+title: "Blinded by worries: sin taxes and demand for temptation under financial worries (Forthcoming, Theory and Decision)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -35,7 +35,7 @@ abstract: Imposing "sin" taxes has been the preferred way governments tried to d
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
