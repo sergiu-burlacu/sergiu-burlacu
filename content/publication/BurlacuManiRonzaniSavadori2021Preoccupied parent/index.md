@@ -1,5 +1,5 @@
 ---
-title: "The Preoccupied Parent: Household Choices under Poverty (Submitted)"
+title: "The Preoccupied Parent: Household Choices under Poverty (Submitted) new version available soon"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
