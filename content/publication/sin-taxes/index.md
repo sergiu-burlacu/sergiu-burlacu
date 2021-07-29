@@ -52,7 +52,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'pdf/parenting-ermas2021.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
