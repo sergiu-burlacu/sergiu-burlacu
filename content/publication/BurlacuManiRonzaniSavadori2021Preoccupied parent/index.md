@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'pdf/burlacuManiSavadoriRonzani-Preoccupied Parent 2021 May.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
