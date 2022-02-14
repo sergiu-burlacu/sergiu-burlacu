@@ -1,14 +1,13 @@
 ---
-title: "The Preoccupied Parent: Household Choices under Poverty (Under Review)"
+title: "Consistency of prosocial behavior and cognitive skills: Evidence from children in El Salvador (Under Review)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jacopo Bonan
 - admin
-- Anandi Mani
-- Piero Ronzani
-- Lucia Savadori
+- Arianna Galliera
 
 # Author notes (optional)
 # author_notes:
@@ -31,11 +30,19 @@ publication_types: ["3"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "Poor children receive lower quality parental attention and have worse human capital outcomes. Is their parents' behavior a cause of their poverty, or its consequence? To address this question, we test a hypothesis based on the psychological impacts of poverty, rather than its effect on resources or knowledge: Financial concerns arising from low and uncertain incomes preoccupy poor parents, reducing their attention available for more important, but less urgent parenting tasks. In an online experiment, we study how being primed with financial concerns affects parents' purchase decisions, including responsiveness to discounts. We find that, in the absence of financial concerns, both rich and poor parents respond rationally to a discount on child learning products. However, under financial concerns, poorer parents alone prioritize purchase of immediate household needs over child learning. Within this group, this effect is driven by parents farther away from their last payday. Our results show that low parental attention to children can be a consequence of poverty, and why it may not be resolved with financial incentives." 
+abstract: "We investigate the consistency of prosocial behaviors in response to changes in the institutional setting of a lab-in-the-field experiment involving primary school students in El
+Salvador. Students play variants of the dictator game allowing the option to take and with
+relative unequal initial endowments. We exploit within-subject variation and find that children are sensitive to the widening of the choice-set, with a significant drop in the contributions
+when the take option becomes available. Higher cognitive skills are systematically associated
+with higher levels of prosociality and lower sensitivity to changes in the choice set. Irrespective
+of the initial inequality in the endowment and their cognitive skills levels, children converge to
+a similar split of the final payoff. This is consistent with inequality aversion. The relationship
+between individual traits in childhood and the degree of consistency of prosocial behaviors
+appears to vary depending on the type of institutional change in the dictator game." 
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags: []
 
@@ -47,12 +54,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'pdf/burlacuManiSavadoriRonzani-Preoccupied Parent 2021 May.pdf'
+url_pdf: 'https://dagliano.unimi.it/wp-content/uploads/2021/12/WP478.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'pdf/parenting-ermas2021.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
