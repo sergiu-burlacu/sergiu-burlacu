@@ -18,10 +18,13 @@ bio: Reseacher at FBK-IRVAPP
 
 # Interests to show in About widget
 interests:
-- Psychology and Economics (with applications on poverty)
-- Human Capital Formation and Family Economics
-- Violence and Decision Making
+- Social Inclusion
 - Behavioral Public Policy
+- Firm behavior and industrial policies
+- Psychology of poverty
+- Human Capital Formation and Family Economics
+- Causal Inference
+
 
 # Education to show in About widget
 education:
@@ -71,7 +74,9 @@ email: ""
 highlight_name: false
 ---
 
-I joined <a href="https://irvapp.fbk.eu/">FBK-IRVAPP</a> as Research Fellow in the Fall of 2019. My research interests are development, labor and public economics. My current research explores how being mentally preoccupied with financial struggles affects behaviors such as parental investment in human capital and demand for addictive goods. In addition, I explore if it changes how people living in poverty respond to public policies. Furthermore, using lab-in-the-fields experiments with primary schools students in El Salvador, I study (i) how recalling violence exposure impacts cognitive function and (ii) the potential determinants of economic behaviors of children (prosocial behaviors, risk preferences and others). 
+I joined <a href="https://irvapp.fbk.eu/">FBK-IRVAPP</a> as Research Fellow in the Fall of 2019. My current primary research interests are social inclusion, micro-firm behaviour and industrial policies, the role of AI in education and other domains (healthcare and risk assessment), and behavioural public policy. I have worked on designing, programming and managing several experiments (field, lab-in-the-field and survey experiments) and surveys in various settings. I am passionate about causal inference, machine learning, programming and open source software.
+
+For a list of my ongoing and past institutional project please see my <a href="https://irvapp.fbk.eu/people/detail/sergiu-burlacu/">institutional page</a>.
 
 
 
