@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sburlacu@irvapp.it"
-phone = "+39 389 177 4139"
+phone = "+39 0461 312292"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,8 +97,7 @@ address = {street = "Via Santa Croce 77", city = "Trento", region = "TN", postco
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.062908", longitude = "11.1218566"}
-
+coordinates = {latitude = "46.06292439564935", longitude = "11.124082403552862"}
 # Directions for visitors to locate you.
 directions = ""
 
