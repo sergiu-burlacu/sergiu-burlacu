@@ -1,5 +1,5 @@
 ---
-title: "Consistency of prosocial behavior and cognitive skills: Evidence from children in El Salvador (Under Review)"
+title: "Determinants of Prosocial Behaviors during Childhood: Evidence from El Salvador (Updated version available soon)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,7 +18,7 @@ date: "20121-03-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-28T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dagliano.unimi.it/wp-content/uploads/2021/12/WP478.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
