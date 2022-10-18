@@ -31,7 +31,7 @@ publication_types: ["3"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "Poor children receive lower quality parental attention and have worse human capital outcomes. Is their parents' behavior a cause of their poverty, or its consequence? To address this question, we test a hypothesis based on the psychological impacts of poverty, rather than its effect on resources or knowledge: Financial concerns arising from low and uncertain incomes preoccupy poor parents, reducing their attention available for more important, but less urgent parenting tasks. In an online experiment, we study how being primed with financial concerns affects parents' purchase decisions, including responsiveness to discounts. We find that, in the absence of financial concerns, both rich and poor parents respond rationally to a discount on child learning products. However, under financial concerns, poorer parents alone prioritize purchase of immediate household needs over child learning. Within this group, this effect is driven by parents farther away from their last payday. Our results show that low parental attention to children can be a consequence of poverty, and why it may not be resolved with financial incentives." 
+abstract: "We examine the hypothesis that parents' low investments in children may be a consequence of adverse cognitive effects of poverty: Financial worries preoccupy low-income parents with immediate concerns, reducing their attention to important parenting tasks.  We test this hypothesis in an online experiment studying purchase decisions of UK parents, including their responsiveness to financial subsidies for child development products.  Both low and higher-income parents respond to a subsidy on such products, by spending more of their household budget. However, when primed with financial worries under the same budget, low-income parents alone ignore the subsidy, prioritizing purchase of immediate household needs instead.  This non-responsiveness to subsidies is driven by worried parents farther away from their last payday.  Better alignment of financial subsidies to payday cycles may help achieve more investment and better child outcomes in poorer families." 
 
 
 # Summary. An optional shortened abstract.
@@ -47,12 +47,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'pdf/burlacuManiSavadoriRonzani-Preoccupied Parent 2021 May.pdf'
+url_pdf: 'pdf/burlacuManiSavadoriRonzani-Preoccupied Parent.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'pdf/parenting-ermas2021.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
