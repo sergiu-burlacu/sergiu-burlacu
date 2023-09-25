@@ -5,7 +5,7 @@ title: "The robustness of mental accounting: a global perspective."
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Priolo, Giulia, et al.
+- Giulia Priolo and others
 
 
 # Author notes (optional)
