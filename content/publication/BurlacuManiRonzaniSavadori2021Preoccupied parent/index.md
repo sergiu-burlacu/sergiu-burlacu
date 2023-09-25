@@ -1,5 +1,5 @@
 ---
-title: "The Preoccupied Parent: Household Choices under Poverty (Under Review)"
+title: "The preoccupied parent: How financial concerns affect child investment choices (Journal of Behavioral and Experimental Economics)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,22 +16,22 @@ authors:
 # - "Equal contribution"
 
 date: "20121-03-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.socec.2023.102030"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-28T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "We examine the hypothesis that parents' low investments in children may be a consequence of adverse cognitive effects of poverty: Financial worries preoccupy low-income parents with immediate concerns, reducing their attention to important parenting tasks.  We test this hypothesis in an online experiment studying purchase decisions of UK parents, including their responsiveness to financial subsidies for child development products.  Both low and higher-income parents respond to a subsidy on such products, by spending more of their household budget. However, when primed with financial worries under the same budget, low-income parents alone ignore the subsidy, prioritizing purchase of immediate household needs instead.  This non-responsiveness to subsidies is driven by worried parents farther away from their last payday.  Better alignment of financial subsidies to payday cycles may help achieve more investment and better child outcomes in poorer families." 
+abstract: "We examine the hypothesis that low parental investments in children may be a consequence of the adverse cognitive effects of poverty: financial worries preoccupy low-income parents with immediate concerns, shifting their attention away from stimulating parenting tasks. We test this hypothesis in an online experiment studying the purchase decisions of UK parents, including their responsiveness to financial subsidies for child development products. Both low and higher-income parents respond to a subsidy on such products, increasing their demands. However, when primed with financial worries under the same budget, low-income parents respond less to the subsidy, prioritizing instead the purchase of products addressing immediate household needs. This lower responsiveness to subsidies appears to be driven by worried parents further away from their last payday. Stronger safety nets and better alignment of financial subsidies to payday cycles may help achieve more investment and better child outcomes in poorer families." 
 
 
 # Summary. An optional shortened abstract.
@@ -47,9 +47,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'pdf/burlacuManiSavadoriRonzani-Preoccupied Parent.pdf'
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S2214804323000563'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://mfr.osf.io/render?url=https://osf.io/mfjzb/?view_only=1500e07cb8024255a6a26e8f26164982'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
