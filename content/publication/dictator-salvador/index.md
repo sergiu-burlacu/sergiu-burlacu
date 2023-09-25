@@ -1,5 +1,5 @@
 ---
-title: "Determinants of Prosocial Behaviors during Childhood: Evidence from El Salvador (Updated version available soon)"
+title: "Prosociality in variants of the dictator game: Evidence from children in El Salvador (Journal of Behavioral and Experimental Economics)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,30 +15,22 @@ authors:
 # - "Equal contribution"
 
 date: "20121-03-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.socec.2023.102084"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-28T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "We investigate the consistency of prosocial behaviors in response to changes in the institutional setting of a lab-in-the-field experiment involving primary school students in El
-Salvador. Students play variants of the dictator game allowing the option to take and with
-relative unequal initial endowments. We exploit within-subject variation and find that children are sensitive to the widening of the choice-set, with a significant drop in the contributions
-when the take option becomes available. Higher cognitive skills are systematically associated
-with higher levels of prosociality and lower sensitivity to changes in the choice set. Irrespective
-of the initial inequality in the endowment and their cognitive skills levels, children converge to
-a similar split of the final payoff. This is consistent with inequality aversion. The relationship
-between individual traits in childhood and the degree of consistency of prosocial behaviors
-appears to vary depending on the type of institutional change in the dictator game." 
+abstract: "We study prosocial behavior among primary school students in El Salvador. In a within-subject lab-in-the-field experiment, we examine the relationship between individual traits, i.e., cognitive skills, non-cognitive skills and violence exposure, and how sensitive children are to the changes in the setting of the dictator game. We propose two different variants of the dictator game: allowing the option to take and starting off with relatively unequal initial endowments. We find that prosocial behavior positively correlates with cognitive skills, while no significant correlation with non-cognitive skills and violence exposure arises. Our results show that children are sensitive to the widening of the choice set, with a significant drop in the amount given when the take option becomes available. Children with lower cognitive skills mainly drive the effect. Lastly, we find that children show a stable willingness to redistribute the final resources despite initial disparities, which is unaffected by the level of cognitive skills, non-cognitive skills, and violence exposure. We conclude that cognitive abilities are not only positively related to prosociality, but also to consistency in prosocial behavior across changes in the choice-set of the dictator game." 
 
 
 # Summary. An optional shortened abstract.
@@ -54,19 +46,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2214804323001106/pdfft?md5=60a2188f1146eaa5225c52034449a43f&pid=1-s2.0-S2214804323001106-main.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://www.dropbox.com/s/98g6z5osw60n350/DatasetAndAnalysis_JBEE.zip?dl=0'
 url_poster: ''
 url_project: ''
-url_slides: 'pdf/sburlacu_ermas2022.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
