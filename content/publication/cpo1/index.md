@@ -1,14 +1,14 @@
 ---
-title: "Blinded by worries: sin taxes and demand for temptation under financial worries (Theory and Decision)"
+title: "The cost of a vowel: How the gender-marked job title affects ratings of female lawyers. Economics Letters"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Austėja Kažemekaitytė
-- Piero Ronzani
-- Lucia Savadori
+- Dominique Cappellett
+- Sonia Marzadro
+- Alessandro Tondini
 
 # Author notes (optional)
 # author_notes:
@@ -19,7 +19,7 @@ date: "20121-01-29T00:00:00Z"
 doi: "https://doi.org/10.1007/s11238-021-09820-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-04T00:00:00Z"
+publishDate: "2024-01-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ["2"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: Imposing "sin" taxes has been the preferred way governments tried to discourage the over-consumption of temptation goods for decades. However numerous evidence shows that consumers exhibit behavioral biases which can affect their reaction to taxes. This paper investigates a potential bias and how it affects demand for temptation - financial worries associated with poverty have been shown to shift attention towards pressing needs, often at the expense of forward looking decisions. In an online experiment with UK participants, we randomly induce financial worries and ask participants to allocate a budget between basic necessities and temptation goods in an experimental market. We randomly impose "taxes" on temptation by increasing its price. We find that, in the absence of any tax, inducing financial worries lowers demand for temptation, effect stronger for lower income participants. However, when financial concerns are salient, increasing the tax does not lower demand among lower-income participants. While financial worries might protect against over-consumption of temptation in the absence of tax changes, they also might hurt the poor the most when additional taxes are introduced. 
+abstract: "We show that using the feminine job title negatively impacts how female lawyers are perceived by other professionals. Respondents were presented with hypothetical legal issues and shown several realistic profiles of male and female lawyers, where we randomly varied whether female lawyers were presented with the predominantly used masculine term – avvocato – or with the feminine term — avvocata. Ceteris paribus, female profiles with the feminine title receive lower ratings by 0.36 (out of 10, −5%, −0.16SD). The effect is driven by female respondents and is large relative to profiles’ experience or other quality signals."
 
 
 # Summary. An optional shortened abstract.
@@ -47,7 +47,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s11238-021-09820-5.pdf'
+links:
+- name: Journal
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0165176523005207
+- name: Pre-print
+  url: https://irvapp.fbk.eu/publications/detail/the-cost-of-a-vowel-how-the-gender-marked-job-title-affects-ratings-of-female-lawyers/
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
