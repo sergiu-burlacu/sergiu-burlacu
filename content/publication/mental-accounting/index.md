@@ -17,7 +17,7 @@ date: "20121-03-15T00:00:00Z"
 doi: "10.31219/osf.io/apc26"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-07-18T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
