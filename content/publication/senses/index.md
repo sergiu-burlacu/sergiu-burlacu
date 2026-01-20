@@ -1,12 +1,13 @@
 ---
-title: "The robustness of mental accounting: a global perspective. Conditionally accepted: Journal of Consumer Research"
+title: "Beyond Sight: Exploring the Impact of a Multifaceted Intervention on Knowledge, Attitudes and Behaviors towards Persons with Visual Impairment. Revise and Resubmit - Journal of Behavioral and Experimental Economics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Giulia Priolo and others
-
+- admin
+- Davide Azzolini
+- Federico Podestà
 
 # Author notes (optional)
 # author_notes:
@@ -14,10 +15,10 @@ authors:
 # - "Equal contribution"
 
 date: "20121-03-15T00:00:00Z"
-doi: "10.31219/osf.io/apc26"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01T00:00:00Z"
+publishDate: "2024-03-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +30,7 @@ publication_types: ["3"]
 # publication: 
 # publication_short: In *ICW*
 
-abstract: "" 
+abstract: "We evaluate a multi-faceted intervention aimed at improving social inclusion and reducing prejudice against individuals with visual impairment. The intervention, randomly assigned to upper-secondary school students, consists of an awareness-raising activity and a simulation-based inter-group contact activity. While we find positive effects on knowledge of visual impairment, perspective-taking and empathic concerns, and general societal attitudes toward persons with visual impairment, no improvements are observed in terms of implicit attitudes or multidimensional attitudes. Moreover, the intervention does not improve outcomes measured through incentivized choices, such as the willingness to pay for social interaction with persons with visual impairment, beliefs regarding their performance and outcomes in various domains, and altruism towards them. The evidence suggests that assessing impacts only on knowledge and general attitudes, as is commonly done in the literature, may not suffice to determine the extent to which such interventions are successful at improving social inclusion for persons with visual or other forms of impairment." 
 
 
 # Summary. An optional shortened abstract.
@@ -45,14 +46,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://osf.io/apc26/'
+links:
+- name: WP
+  url: 'https://irvapp.fbk.eu/publications/detail/beyond-sight-exploring-the-impact-of-a-multifaceted-intervention-on-knowledge-attitudes-and-behaviors-towards-persons-with-visual-impairment/'
+url_pdf: ''
 url_code: ''
-url_dataset: 'https://osf.io/apc26/'
+url_dataset: ''
 url_poster: ''
-url_project: 'https://osf.io/apc26/'
+url_project: 'https://irvapp.fbk.eu/projects/detail/senses-evaluation-of-an-experiential-school-intervention-to-counter-stereotypes-towards-persons-with-visual-disabilities/'
 url_slides: ''
 url_source: ''
 url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
