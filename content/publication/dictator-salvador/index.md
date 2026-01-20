@@ -1,5 +1,5 @@
 ---
-title: "Prosociality in variants of the dictator game: Evidence from children in El Salvador (Journal of Behavioral and Experimental Economics)"
+title: "Prosociality in variants of the dictator game: Evidence from children in El Salvador. Journal of Behavioral and Experimental Economics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,5 @@
 ---
-title: "The preoccupied parent: How financial concerns affect child investment choices (Journal of Behavioral and Experimental Economics)"
+title: "The preoccupied parent: How financial concerns affect child investment choices. Journal of Behavioral and Experimental Economics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

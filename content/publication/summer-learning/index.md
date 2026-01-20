@@ -1,5 +1,5 @@
 ---
-title: "Starting the School Year on the Right Foot: Effects of a Summer Learning Program Targeting Vulnerable Students in Italy"
+title: "Starting the School Year on the Right Foot: Effects of a Summer Learning Program Targeting Vulnerable Students in Italy. Educational Researcher"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -47,7 +47,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.sagepub.com/doi/10.3102/0013189X251361799'
+links:
+- name: Journal
+  url: 'https://journals.sagepub.com/doi/10.3102/0013189X251361799'
+- name: Pre-print
+  url: 'https://irvapp.fbk.eu/wp-content/uploads/2023/09/WP_IRVAPP_2023_05_v2.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,10 +60,8 @@ url_project: 'https://irvapp.fbk.eu/projects/detail/educational-archipelago/'
 url_slides: ''
 url_source: ''
 url_video: ''
-# Custom links (uncomment lines below)
-links:
-- name: Pre-print
-  url: 'https://irvapp.fbk.eu/wp-content/uploads/2023/09/WP_IRVAPP_2023_05_v2.pdf'
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

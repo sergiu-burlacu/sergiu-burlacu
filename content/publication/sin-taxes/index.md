@@ -1,5 +1,5 @@
 ---
-title: "Blinded by worries: sin taxes and demand for temptation under financial worries (Theory and Decision)"
+title: "Blinded by worries: sin taxes and demand for temptation under financial worries. Theory and Decision"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

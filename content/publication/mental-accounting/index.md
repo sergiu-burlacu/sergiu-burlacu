@@ -1,5 +1,5 @@
 ---
-title: "The robustness of mental accounting: a global perspective."
+title: "The robustness of mental accounting: a global perspective. Conditionally accepted: Journal of Consumer Research)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -17,7 +17,7 @@ date: "20121-03-15T00:00:00Z"
 doi: "10.31219/osf.io/apc26"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-18T00:00:00Z"
+publishDate: "2026-07-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ abstract: ""
 
 
 # Summary. An optional shortened abstract.
-summary: New version coming soon.
+summary: ""
 
 tags: []
 
@@ -47,9 +47,9 @@ featured: true
 
 url_pdf: 'https://osf.io/apc26/'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://osf.io/apc26/'
 url_poster: ''
-url_project: ''
+url_project: 'https://osf.io/apc26/'
 url_slides: ''
 url_source: ''
 url_video: ''
