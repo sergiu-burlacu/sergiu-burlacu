@@ -1,5 +1,5 @@
 ---
-title: "GenAI: Substitute or Complement in Evidence Synthesis: A discrete choice experiment with Italian policymakers. First draft available soon."
+title: "GenAI: Substitute or Complement in Evidence Synthesis: A discrete choice experiment with Italian policymakers. (Revise and Resubmit)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,6 +11,7 @@ authors:
 - Sonia Marzadro
 - Iunio Quarto Russo
 - Alessio Tommelleri
+- Mirco Tonin
 
 # Author notes (optional)
 # author_notes:
@@ -50,6 +51,8 @@ featured: true
 #   url: http://example.org
 
 links:
+- name: Mimeo
+  url: genAI_Evidence_Synthesis.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
