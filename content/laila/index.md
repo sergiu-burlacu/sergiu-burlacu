@@ -142,9 +142,8 @@ These four videos show where we are starting from. I will add time stampts eithe
 
 ---
 
-## Background and context
+## More background and context
 
-*Reference material: the full detail behind the summary above.*
 
 ### Who we are
 
@@ -174,7 +173,6 @@ These four videos show where we are starting from. I will add time stampts eithe
 
 - **Vet checks:** All good, she did a lot of blood work and is a healthy dog. Digestion is also good now, she struggled in the begining with the change of food.
 - **Weight and diet:** 12kg, she eats kibble (rabbit), dog treats (boiled pork, or treats prepared by me), and chews (tripe, rabbit ears and others)
-- **Medication or supplements:** **[none / list]**
 - **With people:** Very friendly, growled in a low voice only once at a mushroom hunter in the forest (but he had a big stick and a basket and was dressing in hunter type of clothes)
 - **Car travel:** Much calmer now, it the begining we could not keep the windows open without her going pretty crazy.
 
@@ -204,6 +202,8 @@ These four videos show where we are starting from. I will add time stampts eithe
 - Tug
 
 At home she is super engaged and learns very fast, though she can get frustrated quickly. I tried teaching things with shaping, but with little success. In dog parks, unlike Axel who is very busy to smell all the messages, she sniffs for only 4–5 minutes and then relaxes or invites play.
+
+She has been called many names, by trainers and dog sitters - crazy, mad, possessed and even worse. I don't think she's any of that. Her previous life was either (a) being always locked in a narrow space and used for breeding or (b) a + being taken hunting once in a while. If it was (b), it means that she was going from 0 to 100%, no middle ground. She is completely neutral to very loud noises, so I assume she was taken for hunts at least sometimes. If it was (a), the it's normal for a dog, with her genes, deprived of experiences, to struggle. The funny thing about her is that even though the outside world is a lot of her, she really wants to go out and experience it. My theory is that if we would let her offleash in nature, she may just as well become more engaged also with us, as in the dog parks. 
 
 ### Main challenges
 
@@ -240,9 +240,9 @@ At home she is super engaged and learns very fast, though she can get frustrated
 **Trainers:**
 
 - UK trained trainer (one in-person session). He introduced us to classical conditioning for reactivity (treat on sight, no marker), which we still use and which sometimes helps.
-- **Two schools using the zooanthropological approach**: no classical conditioning, no obedience, no markers, a long leash, and letting the dog work things out on her own terms. We learned a lot about body language. However, we got little practical structure, and the trainers often contradicted each other. Their advice was to let her go through a full reaction and reward her when she looks back. After 4 months with no improvement, we stopped. We think it's too much to expect a dog in Laila's state to offer the right behaviours without first being taught what they are. This is a very popular approach in Italy, and often the only alternative to coercion based approaches.
-- **A dominance/correction-based trainer.** We did a couple of obedience sessions with positive reinforcement but then we found out that the the approach was also based on a on leash corrections, which goes against our values, so we stopped.
-- **Our most recent trainer** was more structured and useful. She recommended removing all arousing activities (mantrailing, tug, complex work, even limiting nature walks), keeping obedience very simple, and walking short out-and-back lines. For example: walk 10 m from the building and back, 3–4 times, until Laila engages in both directions (she's calmer on the way back). Then come back only 5 m and go forward another 10 m. It helps, at least in some situations.
+- Two schools using the zooanthropological approach: no classical conditioning, no obedience, no markers, a long leash, and letting the dog work things out on her own terms. We learned a lot about body language. However, we got little practical structure, and the trainers often contradicted each other. Their advice was to let her go through a full reaction and reward her when she looks back. After 4 months with no improvement, we stopped. We think it's too much to expect a dog in Laila's state to offer the right behaviours without first being taught what they are. This is a very popular approach in Italy, and often the only alternative to coercion based approaches.
+- We did a couple of obedience sessions with positive reinforcement but then we found out that the the approach was also based on a on leash corrections, which goes against our values, so we stopped.
+- Our most recent trainer was more structured and useful. She recommended removing all arousing activities (mantrailing, tug, complex work, even limiting nature walks), keeping obedience very simple, and walking short out-and-back lines. For example: walk 10 m from the building and back, 3–4 times, until Laila engages in both directions (she's calmer on the way back). Then come back only 5 m and go forward another 10 m. It helps, at least in some situations.
 - **Online:** Grisha Stewart's courses, and the Scurry dog club (gundog games and activities).
 
 
